@@ -56,3 +56,13 @@ top
 
 ```bash
 -rw-rw-r-- 1 kahuna kahuna 0 9월 2 15:20 text1.txt
+
+
+```
+## 6. 실습 결과
+
+- `practice` 디렉터리를 생성했다.
+- `text1.txt` 파일을 생성했다.
+- `ls -al` 명령으로 파일 권한, 소유자, 크기, 수정 시간을 확인했다.
+- `text1.txt`가 크기 `0`인 빈 파일임을 확인했다.
+- 현재 사용자가 `kahuna`이며, 현재 위치가 `~/practice`임을 확인했다.
